@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "Vetores\\src",
-        "CWI\\src"
+        "CWI\\src",
+        "Matrizes\\src"
     ]
 }

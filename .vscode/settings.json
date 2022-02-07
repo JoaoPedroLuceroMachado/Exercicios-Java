@@ -2,6 +2,7 @@
     "java.project.sourcePaths": [
         "Vetores\\src",
         "CWI\\src",
-        "Matrizes\\src"
+        "Matrizes\\src",
+        "OrientadaObjetos\\src"
     ]
 }

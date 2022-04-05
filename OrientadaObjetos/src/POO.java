@@ -28,9 +28,9 @@ public class POO {
         System.out.printf("Area do Triangulo y: %.4f%n", areay);
 
         if(areax > areay){
-            System.out.println("Area do x é maior");
+            System.out.println("Area do x e maior");
         }else {
-            System.out.println("Area do y é maior");
+            System.out.println("Area do y e maior");
         }
 
 

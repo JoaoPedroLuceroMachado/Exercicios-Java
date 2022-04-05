@@ -47,7 +47,7 @@ public class CWI {
             TamanhoFormat = Tamanhoarq / YB;
             System.out.printf("%.2f YB", TamanhoFormat);
         }
-
+        
 
         sc.close();
     }
